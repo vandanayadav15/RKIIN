@@ -1,0 +1,129 @@
+{
+  "name": "RK Inn",
+  "slides": [
+    {
+      "xl": "/img/banner/1-xl.jpeg",
+      "xs": "/img/banner/1-xs.jpeg",
+      "alt": "banner-1",
+      "title": "For Everyone Loves a Home Away from Home",
+      "summary": "Banner 1"
+    },
+    {
+      "xl": "/img/banner/2-xl.jpeg",
+      "xs": "/img/banner/2-xs.jpeg",
+      "alt": "banner-2",
+      "title": "For Everyone Loves a Home Away from Home",
+      "summary": "Banner 2"
+    },
+    {
+      "xl": "/img/banner/3-xl.jpeg",
+      "xs": "/img/banner/3-xs.jpeg",
+      "alt": "banner-3",
+      "title": "For Everyone Loves a Home Away from Home",
+      "summary": "Banner 3"
+    },
+    {
+      "xl": "/img/banner/4-xl.jpeg",
+      "xs": "/img/banner/4-xs.jpeg",
+      "alt": "banner-4",
+      "title": "For Everyone Loves a Home Away from Home",
+      "summary": "Banner 4"
+    },
+    {
+      "xl": "/img/banner/5-xl.jpeg",
+      "xs": "/img/banner/5-xs.jpeg",
+      "alt": "banner-5",
+      "title": "For Everyone Loves a Home Away from Home",
+      "summary": "Banner5"
+    }
+  ],
+  "service1": [
+    {
+      "name": "About RK INN Services",
+      "content": "The best service apartments in Kurnool for your short and extended stays.You travel with a purpose and we assure an effortlessly comfortable, convenient and absolutely homelike stay every time you visit the City of Nizams.Embrace congenial pleasures and a home like environment with Rk Inn, Premium Serviced Apartments. The apartment offers an outdoor pool. A car rental service is available at Rk Inn Serviced Apartment.",
+      "image": "/img/banner/konda.png"
+    }
+  ],
+  "bannerIntro": {
+    "title": "Look for the bestAccommodation and experiences!",
+    "image": "/img/banner/9-xl.jpeg"
+  },
+  "branch_master": {
+    "name": "Feel At Home In",
+    "branch": [
+      {
+        "place": "Kurnool",
+        "hotels": [
+          {
+            "id": 1,
+            "image": "/img/banner/1-xl.jpeg",
+            "text": "RK INN Master Executive Suite"
+          },
+          {
+            "id": 2,
+            "image": "/img/banner/2-xl.jpeg",
+            "text": "RK INN Master Executive Suite"
+          },
+          {
+            "id": 3,
+            "image": "/img/banner/3-xl.jpeg",
+            "text": "RK INN Master Executive Suite"
+          }
+        ]
+      },
+      {
+        "place": "Kurnool",
+        "hotels": [
+          {
+            "id": 1,
+            "image": "/img/banner/1-xl.jpeg",
+            "text": "RK INN Master Executive Suite"
+          },
+          {
+            "id": 2,
+            "image": "/img/banner/2-xl.jpeg",
+            "text": "RK INN Master Executive Suite"
+          },
+          {
+            "id": 3,
+            "image": "/img/banner/3-xl.jpeg",
+            "text": "RK INN Master Executive Suite"
+          }
+        ]
+      }
+    ]
+  },
+
+  "amenitiesHotel": [
+    {
+      "id": 1,
+      "image": "/img/banner/coffee3.svg",
+      "title": "Coffee Shop"
+    },
+    {
+      "id": 2,
+      "image": "/img/banner/hotel.svg",
+      "title": "Accomodation"
+    },
+    {
+      "id": 3,
+      "image": "/img/banner/restaurent3.svg",
+      "title": "Restaurants"
+    },
+    {
+      "id": 4,
+      "image": "/img/banner/ticket2.svg",
+      "title": "Events & Tickets"
+    },
+    {
+      "id": 5,
+      "image": "/img/banner/parliament4.svg",
+      "title": "Government"
+    },
+    {
+      "id": 6,
+      "image": "/img/banner/parliament4.svg",
+      "title": "Government"
+    }
+  ]
+}
